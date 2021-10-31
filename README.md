@@ -1,5 +1,5 @@
-# My websitename is : MEDICA
-[liveSite](https://medica-32265.web.app/home)
+# My websitename is : RAIKA ECO RESORT
+[liveSite](https://raika-eco-resort.web.app/home)
 
 ## description
 _This site is a tourism spot based site. it would be described about this tourist spot.this site helps to them regular updates and new about Raika eco resort park _
