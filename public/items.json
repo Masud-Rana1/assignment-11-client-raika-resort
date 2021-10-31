@@ -1,0 +1,39 @@
+[
+    {"id":1,
+        "name": "One-Bedroom Bungalows",
+         "price": " 6,325",
+         "description": "Sitting on stilts above a lagoon that fills up in the wetter seasons, our bungalows help you to feel a part of the surrounding environment. Each bungalow includes a veranda, hammock, and two beautiful unique chairs lovingly restored from shipyards after decades on the ocean, each with their own story.",
+          "img": "https://i.ibb.co/y4Y1wgw/1606910241698-01.jpg"
+        },
+    {"id":2,
+        "name": "One Bedroom Water Bungalows",
+         "price": "8,223",
+         "description": "Sitting on stilts above a lagoon that fills up in the wetter seasons, our Water Bungalows help you to feel a part of the surrounding environment. Each Water Bungalow includes Air Condition, a veranda, hammock, and two beautiful, unique chairs lovingly restored from shipyards after decades on the ocean, each with their own story.",
+          "img": "https://i.ibb.co/m0wmPfC/1605096688282-01.jpg"
+        },
+    {"id":3,
+        "name": "One Bedroom Studio Villas",
+         "price": "10,753",
+         "description": "Two studio villas, each with their own unique, nature-focused experience. You can watch the lagoon fill up as you relax on a wooden deck. Spend your afternoon napping and eating on wooden deck, and enjoy a shower by a flower garden and wall mural contained within an open-air bathroom. Or spend a day musing in a two-storey artist's den.",
+          "img": "https://i.ibb.co/9qnp6wB/249317774-2133457440125562-3872113803637095645-n.jpg"
+        },
+    {"id":4,
+        "name": "Two Bedroom Villas",
+         "price": "180",
+         "description": "Near the pier and slightly secluded from the rest of the resort, our two-bedroom villas comprise a wonderful day room flanked by two bedrooms, perfect for watching the sun rise, perfect for families and friends staying together. Each villa includes a private garden of flowers and coconut trees, ideal for bonfires and barbeques.",
+          "img": "https://i.ibb.co/zZsP5gX/PANO-20201212-133228-vr-01.jpg"
+        },
+    {"id":5,
+        "name": "water park",
+         "price": "100",
+         "description": "A  or waterpark is an amusement park that features water play areas such as swimming pools, water slides, splash pads, water playgrounds, and lazy rivers, as well as areas for floating, bathing, swimming, and other barefoot environments..",
+          "img": "https://i.ibb.co/NCDrDDb/mammoth-vid-video-Sixteen-By-Nine3000-1.jpg"
+        },
+    {"id":6,
+        "name": "BBQ center",
+         "price": "500",
+         "description": "Barbecue or barbeque (informally BBQ in the UK and US, barbie in Australia and braai in South Africa) is a term used with significant regional and national variations to describe various cooking methods which use live fire and smoke to cook the food.[1] The term is also generally applied to the devices associated with those methods, the broader cuisines that these methods produce, and the meals or gatherings at which this style of food is cooked and served. ",
+          "img": "https://i.ibb.co/92k30cS/249003926-2133620760109230-3356993092950699673-n.jpg"
+        }
+         
+]
